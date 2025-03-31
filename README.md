@@ -1,62 +1,105 @@
-# Hello, Energy & Embedded Systems Enthusiasts! 👋
+# ⚡ Hello, Energy & Embedded Systems Visionaries!
 
-## Who Am I?
-I'm an embedded systems engineer passionate about revolutionizing energy markets through advanced hardware and firmware solutions. My mission is to create systems where every consumer device in households can seamlessly communicate, optimizing energy usage and contributing to grid balancing. I specialize in developing solutions that help manage grid imbalance and enable participation in ancillary services markets like FCR (Frequency Containment Reserve) and aFRR (automatic Frequency Restoration Reserve).
-
-## 💡 Energy Market Innovation
-I specialize in developing IoT solutions that bridge the gap between energy providers and consumers, creating more efficient, responsive, and sustainable energy ecosystems.
-
-## 🛠️ Current Projects
-- **Grid Balancing through Embedded Systems**: Engineering high-precision, low-latency embedded devices that detect and respond to grid frequency signals within milliseconds for FCR and aFRR services
-- **Imbalance Management Platform**: Creating solutions that help minimize grid imbalance by coordinating consumer-side flexibility
-- **Smart Home Energy Management**: Building IoT frameworks that enable household devices to communicate and optimize energy consumption based on real-time market signals
-- **Energy Market Data Integration**: Developing APIs and data pipelines that connect consumer devices to energy market information
-- **Decentralized Energy Trading**: Creating systems that allow households to participate in peer-to-peer energy trading
-
-## 🔌 Tech Stack
-## 🌱 Current Explorations
-- Ultra-fast response systems for FCR market participation (<10 milliseconds) using custom DSP hardware
-- Aggregation platforms for small-scale assets to participate in aFRR markets
-- Imbalance prediction algorithms to optimize market positions
-- Edge computing for reduced latency in energy-critical applications
-- Blockchain technologies for secure energy trading and verification
-- Machine learning models for predictive energy consumption and optimal device scheduling
-
-## 🧠 My Energy IoT Philosophy
-## 🌱 Current Explorations
-- Ultra-fast response systems for FCR market participation (<10 milliseconds) using custom DSP hardware
-- Aggregation platforms for small-scale assets to participate in aFRR markets
-- Imbalance prediction algorithms to optimize market positions
-- Edge computing for reduced latency in energy-critical applications
-- Blockchain technologies for secure energy trading and verification
-- Machine learning models for predictive energy consumption and optimal device scheduling
-
-## 🧠 My Energy IoT Philosophy
-## 🔋 Featured Energy Market Solutions
-- **Advanced FCR Response Hardware**: Custom-designed embedded systems with high-precision frequency measurement circuitry enabling ultra-fast grid frequency response (sub-cycle detection)
-- **aFRR Aggregation Platform**: Software for pooling distributed energy resources to participate in automatic Frequency Restoration Reserve markets
-- **Imbalance Minimizer**: Tools to predict and reduce energy imbalances in real-time
-- **Device Communication Protocol**: Open-source framework enabling cross-manufacturer device communication for energy optimization
-- **Household Energy Dashboard**: Real-time visualization of energy usage, market prices, and optimization opportunities
-- **Smart Grid Integration Library**: Tools for connecting household devices to broader energy grid signals
-
-## 🤝 Connect & Collaborate
-Always interested in connecting with fellow energy market innovators and IoT developers!
-
-## 💬 Let's Talk About...
-- Grid balancing through distributed energy resources
-- FCR and aFRR market participation for small-scale assets
-- Strategies for minimizing imbalance costs
-- Optimizing household energy consumption through IoT
-- The future of decentralized energy markets
-- Creating open standards for energy device communication
-- Renewable energy integration with smart homes
+## 👨‍💻 Who Am I?
+I’m an embedded systems engineer on a mission to reshape the energy landscape. With a deep passion for firmware, energy systems, and grid innovation, I build technologies that connect consumer devices with the energy markets—enabling smarter usage, real-time response, and seamless grid balancing.  
+**Goal:** Empower every device to play its part in a resilient, decentralized energy ecosystem.
 
 ---
 
-Building a more connected, energy-efficient future - one commit at a time!
+## 🚀 Driving Energy Market Disruption
+I develop embedded IoT solutions that close the loop between household devices and energy providers, enabling participation in:
 
+- **FCR (Frequency Containment Reserve)**
+- **aFRR (Automatic Frequency Restoration Reserve)**
+- **Imbalance Management**
+- **Decentralized Energy Trading**
 
+---
 
+## 🔧 Projects in Motion
 
+- **⚡ Ultra-Fast Grid Response Systems**  
+  Sub-10 ms embedded response for FCR using custom DSPs and precision frequency detection
 
+- **📉 Imbalance Management Platform**  
+  Predictive control and real-time coordination to reduce imbalance costs
+
+- **🏡 Smart Home Energy Framework**  
+  Secure, scalable IoT systems enabling real-time device coordination with energy markets
+
+- **📊 Energy Market Data Integration**  
+  Lightweight APIs connecting household systems with dynamic grid and price signals
+
+- **🌐 Peer-to-Peer Trading Tech**  
+  Blockchain-secured systems for transparent and decentralized local energy exchange
+
+---
+
+## 🧰 Tech Toolbox
+
+- **Firmware & Embedded:** C/C++, Rust, FreeRTOS, Zephyr  
+- **Hardware Platforms:** STM32, ESP32, RP2040, custom PCBs  
+- **Signal Processing:** ARM CMSIS-DSP, FPGA  
+- **Communication:** MQTT, Modbus, OPC UA, Custom IoT protocols  
+- **Backend & Data:** Python, FastAPI, InfluxDB, Grafana  
+- **AI/ML:** Edge ML models for forecasting and control  
+- **Blockchain:** Ethereum, Hyperledger for energy contracts
+
+---
+
+## 🔬 Research & Exploration
+
+- ⚡ Ultra-low-latency hardware for frequency detection  
+- 🧠 AI/ML for imbalance prediction & optimization  
+- 🌍 Edge-first microgrid control systems  
+- 🔗 Blockchain-based smart contracts for energy trading  
+- 📶 Open standards for grid-aware devices  
+- 🤖 Autonomous load scheduling & control
+
+---
+
+## 🌍 Energy IoT Vision
+Every household device can become a **grid asset**. From EV chargers to heat pumps, intelligence at the edge means:
+
+- Real-time flexibility  
+- Reduced consumer costs  
+- Enhanced renewable integration  
+- Energy sovereignty
+
+---
+
+## 🎯 Featured Solutions
+
+- **FCR-Ready Embedded Hardware**  
+  Boards with ultra-fast frequency detection & actuation
+
+- **aFRR Aggregation Toolkit**  
+  Software for pooling and controlling small-scale resources
+
+- **Imbalance Optimizer**  
+  Real-time tools to minimize penalties
+
+- **Cross-Vendor Protocol Stack**  
+  Open-source communication layer
+
+- **Consumer Energy Dashboard**  
+  Market data, price signals & control, all in one place
+
+- **Smart Grid SDK**  
+  Developer-friendly tools for building grid-integrated apps
+
+---
+
+## 🤝 Let’s Collaborate
+
+I'm always looking to connect with energy tech builders, innovators, and forward-thinkers. Let’s work together on:
+
+- Grid balancing via distributed resources  
+- Bringing household devices into energy markets  
+- Minimizing imbalance costs  
+- Creating universal energy communication standards  
+- Building a decentralized energy future
+
+---
+
+**Powering a decentralized, intelligent energy future – one device at a time.**
