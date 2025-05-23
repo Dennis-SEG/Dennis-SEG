@@ -1,101 +1,101 @@
-# ⚡ Embedded Systems Engineer | Energy Market Disruptor | Grid Tech Visionary
+# ⚡ Embedded Systems Engineer | Modbus Specialist | Grid Tech Visionary
 
 ## 👋 Who Am I?
 I'm an embedded systems engineer transforming the energy landscape—device by device.  
-Driven by a passion for firmware, energy systems, and market innovation, I build smart, fast, and connected solutions that bridge homes and grids.  
-**Mission:** Make every device a grid-responsive asset in a decentralized, resilient energy future.
+With deep expertise in Modbus communication (TCP/RTU) and Node.js integration, I bridge industrial protocols with modern energy systems.  
+**Mission:** Turn every device into a real-time, market-aware grid asset.
 
 ---
 
 ## 🚀 Disrupting the Energy Game
 
-I engineer embedded IoT systems that:
+I develop embedded and IoT systems that:
 
-- Respond to grid needs in real time  
-- Enable homes to join FCR, aFRR & imbalance markets  
-- Optimize energy flow through smart forecasting and control  
-- Power transparent peer-to-peer energy trading
+- Speak fluent **Modbus TCP/RTU**, seamlessly integrated via **Node.js**
+- Enable homes and businesses to participate in **FCR, aFRR & imbalance markets**
+- Optimize energy flow through **edge intelligence** and **predictive control**
+- Power transparent, **peer-to-peer energy trading**
 
 ---
 
 ## 🔧 Projects in Action
 
-- **⚡ Ultra-Fast Grid Response (sub-10ms)**  
-  Embedded hardware + DSPs for lightning-fast FCR control
+- **⚡ Sub-10ms Grid Response Systems**  
+  Modbus-controlled actuation using custom DSPs for FCR participation
 
-- **📉 Imbalance Minimization Engine**  
-  Predictive algorithms to cut costs and enhance grid stability
+- **📉 Imbalance Management Platform**  
+  Node.js-powered predictive control to reduce grid penalties
 
-- **🏠 Smart Home → Smart Grid**  
-  Secure IoT architecture linking appliances to market signals
+- **🏠 Home-to-Grid IoT Framework**  
+  Scalable, secure device coordination based on real-time Modbus data
 
-- **📈 Grid Data Connectors**  
-  APIs delivering real-time prices, frequencies & signals to edge devices
+- **🔗 Modbus Gateways for Blockchain Markets**  
+  Industrial protocol meets decentralized trading
 
-- **🔗 P2P Energy Exchange**  
-  Blockchain-backed micro-market infrastructure for local trading
+- **📡 Multi-Device Node.js Modbus Stack**  
+  Unified control layer for energy hardware across brands
 
 ---
 
 ## 🛠️ Tech Toolbox
 
-- **Firmware:** C/C++, Rust, FreeRTOS, Zephyr  
-- **Hardware:** STM32, ESP32, RP2040, custom PCBs  
+- **Protocols:** Modbus TCP/RTU (expert-level), MQTT, OPC UA, SunSpec  
+- **Languages:** Node.js (core), C/C++, Rust  
+- **Firmware/RTOS:** FreeRTOS, Zephyr  
+- **Hardware:** STM32, ESP32, RP2040, industrial PLCs  
 - **Signal Processing:** ARM CMSIS-DSP, FPGAs  
-- **Protocols:** MQTT, Modbus, OPC UA, SunSpec  
-- **Cloud & Data:** Python, FastAPI, InfluxDB, Grafana  
-- **AI/ML:** Edge-based prediction & decision models  
-- **Blockchain:** Ethereum, Hyperledger for smart contracts
+- **Cloud & Data:** FastAPI, InfluxDB, Grafana  
+- **Blockchain:** Ethereum, Hyperledger  
+- **Tooling:** Node-RED, custom Node.js Modbus drivers
 
 ---
 
 ## 🔬 Research Focus
 
-- µs-scale frequency detection for fast reserves  
-- ML-driven forecasting of grid imbalance  
-- Edge-first orchestration of microgrids  
-- Blockchain for automated clearing & settlement  
-- Universal protocols for grid-aware devices  
-- Autonomous device scheduling algorithms
+- µs-scale frequency detection  
+- Real-time Modbus over TCP/RTU control architecture  
+- Predictive load and storage coordination via Node.js  
+- Blockchain-based energy contracts  
+- Universal Modbus abstraction layers  
+- Autonomous scheduling using live grid data
 
 ---
 
-## 🌍 Vision: A Responsive Energy Grid
+## 🌍 Vision: Every Device a Grid Citizen
 
-I believe every device—EV charger, heat pump, battery—can contribute to:
+I believe every heat pump, inverter, and EV charger can:
 
-- Real-time flexibility  
-- Grid stability  
-- Renewable integration  
-- Consumer empowerment  
-- Lower energy bills
+- Flex on demand  
+- Stabilize the grid  
+- Lower energy bills  
+- Empower users  
+- Enable decentralized markets
 
 ---
 
 ## 🎯 Solutions That Deliver
 
-- **FCR-Ready Embedded Controllers**  
-- **aFRR Aggregation Stack for DERs**  
-- **Imbalance Penalty Optimizer (IPO)**  
-- **Cross-Brand Communication Layer**  
-- **Market Signal Dashboard for Consumers**  
-- **Smart Grid SDK for Devs**
+- **Modbus-Centric Grid Control Hardware**  
+- **aFRR Aggregator Platform in Node.js**  
+- **Real-Time Imbalance Predictor (RTIP)**  
+- **Cross-Device Modbus Stack**  
+- **Consumer Market Signal Dashboard**  
+- **Smart Grid SDK with Modbus Integration**
 
 ---
 
-## 🤝 Let's Build the Future Together
+## 🤝 Let’s Collaborate
 
-I’m open to collaboration with:
+Looking to team up on:
 
-- Grid operators  
-- Device manufacturers  
-- Energy aggregators  
-- Software developers  
-- Smart grid startups
+- Modbus-based grid interaction  
+- Node.js-powered device integration  
+- Smart energy systems  
+- DER coordination & market integration  
+- Universal protocol frameworks
 
-**Let’s co-create the next-generation energy ecosystem.**  
-**→ From smart home to smart grid. From passive load to active asset.**
+**Let’s engineer the energy grid of the future—faster, smarter, decentralized.**
 
 ---
 
-**⚡ Powering a decentralized, intelligent energy future – one embedded system at a time.**
+**⚡ Powering a decentralized, intelligent energy future – one Modbus-connected system at a time.**
