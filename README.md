@@ -1,101 +1,101 @@
-# ⚡ Embedded Systems Engineer | Modbus Specialist | Grid Tech Visionary
+# ⚡ Embedded Systems Engineer | Modbus & Node.js Specialist | Grid Tech Visionary
 
 ## 👋 Who Am I?
 I'm an embedded systems engineer transforming the energy landscape—device by device.  
-With deep expertise in Modbus communication (TCP/RTU) and Node.js integration, I bridge industrial protocols with modern energy systems.  
-**Mission:** Turn every device into a real-time, market-aware grid asset.
+With deep expertise in **Modbus communication (TCP/RTU)** and **Node.js**, I create IoT solutions that connect **B2C and C&I customers** to the grid—securely, intelligently, and in real time.  
+**Mission:** Make every consumer, prosumer, and business part of a decentralized, resilient energy ecosystem.
 
 ---
 
 ## 🚀 Disrupting the Energy Game
 
-I develop embedded and IoT systems that:
+I build systems that:
 
-- Speak fluent **Modbus TCP/RTU**, seamlessly integrated via **Node.js**
-- Enable homes and businesses to participate in **FCR, aFRR & imbalance markets**
-- Optimize energy flow through **edge intelligence** and **predictive control**
-- Power transparent, **peer-to-peer energy trading**
+- Speak fluent **Modbus TCP/RTU**, seamlessly implemented in **Node.js**
+- Enable both **households and businesses** to join energy markets  
+- Integrate **partial customers** into **Virtual Power Plants (VPPs)**
+- Deliver real-time device response for **FCR, aFRR & imbalance markets**
+- Power peer-to-peer **local energy trading**
 
 ---
 
 ## 🔧 Projects in Action
 
-- **⚡ Sub-10ms Grid Response Systems**  
-  Modbus-controlled actuation using custom DSPs for FCR participation
+- **⚡ Ultra-Fast Grid Response Systems (<10ms)**  
+  Hardware and Modbus-based actuation for frequency services
 
-- **📉 Imbalance Management Platform**  
-  Node.js-powered predictive control to reduce grid penalties
+- **📉 Imbalance Reduction Engine**  
+  Predictive Node.js control platform for DERs and partial consumers
 
-- **🏠 Home-to-Grid IoT Framework**  
-  Scalable, secure device coordination based on real-time Modbus data
+- **🏡 B2C Energy Participation Toolkit**  
+  Enable home batteries, heat pumps & EVs to respond to price & grid signals
 
-- **🔗 Modbus Gateways for Blockchain Markets**  
-  Industrial protocol meets decentralized trading
+- **🏭 C&I Aggregation Framework**  
+  Industrial systems integrated via Modbus and real-time VPP control
 
-- **📡 Multi-Device Node.js Modbus Stack**  
-  Unified control layer for energy hardware across brands
+- **🌐 Modbus-to-VPP Integration Layer**  
+  Seamless onboarding of legacy and smart assets into energy pools
 
 ---
 
 ## 🛠️ Tech Toolbox
 
-- **Protocols:** Modbus TCP/RTU (expert-level), MQTT, OPC UA, SunSpec  
-- **Languages:** Node.js (core), C/C++, Rust  
-- **Firmware/RTOS:** FreeRTOS, Zephyr  
-- **Hardware:** STM32, ESP32, RP2040, industrial PLCs  
+- **Protocols:** Modbus TCP/RTU (expert), MQTT, OPC UA, SunSpec  
+- **Languages:** Node.js, C/C++, Rust  
+- **RTOS & Firmware:** FreeRTOS, Zephyr  
+- **Hardware:** STM32, ESP32, RP2040, PLCs  
 - **Signal Processing:** ARM CMSIS-DSP, FPGAs  
 - **Cloud & Data:** FastAPI, InfluxDB, Grafana  
 - **Blockchain:** Ethereum, Hyperledger  
-- **Tooling:** Node-RED, custom Node.js Modbus drivers
+- **Tools:** Node-RED, custom Modbus libraries in Node.js
 
 ---
 
 ## 🔬 Research Focus
 
-- µs-scale frequency detection  
-- Real-time Modbus over TCP/RTU control architecture  
-- Predictive load and storage coordination via Node.js  
-- Blockchain-based energy contracts  
-- Universal Modbus abstraction layers  
-- Autonomous scheduling using live grid data
+- µs-scale frequency detection and reaction  
+- Grid-interactive device scheduling for B2C  
+- Modbus over TCP/RTU control via Node.js  
+- Blockchain-enabled energy contracts  
+- Scalable virtual power plant orchestration  
+- Cross-device automation frameworks
 
 ---
 
-## 🌍 Vision: Every Device a Grid Citizen
+## 🌍 Vision: Every Device a Grid Participant
 
-I believe every heat pump, inverter, and EV charger can:
+From home batteries to industrial chillers, every asset can:
 
-- Flex on demand  
+- Deliver flexibility  
 - Stabilize the grid  
-- Lower energy bills  
-- Empower users  
-- Enable decentralized markets
+- Reduce energy costs  
+- Join VPPs  
+- Enable energy independence
 
 ---
 
 ## 🎯 Solutions That Deliver
 
-- **Modbus-Centric Grid Control Hardware**  
-- **aFRR Aggregator Platform in Node.js**  
-- **Real-Time Imbalance Predictor (RTIP)**  
-- **Cross-Device Modbus Stack**  
-- **Consumer Market Signal Dashboard**  
-- **Smart Grid SDK with Modbus Integration**
+- **FCR/aFRR-Capable Embedded Hardware**  
+- **Node.js VPP Gateway for Modbus Devices**  
+- **Imbalance Cost Minimizer**  
+- **B2C Energy Market Integration Suite**  
+- **Cross-Brand Modbus Middleware**  
+- **Smart Grid SDK with Consumer APIs**
 
 ---
 
 ## 🤝 Let’s Collaborate
 
-Looking to team up on:
+Open to working with:
 
-- Modbus-based grid interaction  
-- Node.js-powered device integration  
-- Smart energy systems  
-- DER coordination & market integration  
-- Universal protocol frameworks
+- DSOs, TSOs, and aggregators  
+- B2C and industrial tech providers  
+- Smart device manufacturers  
+- Energy innovators and developers
 
-**Let’s engineer the energy grid of the future—faster, smarter, decentralized.**
+**Let’s co-create the energy grid of tomorrow—flexible, fair, and decentralized.**
 
 ---
 
-**⚡ Powering a decentralized, intelligent energy future – one Modbus-connected system at a time.**
+**⚡ Powering a decentralized, intelligent energy future – one Modbus-connected device at a time.**
