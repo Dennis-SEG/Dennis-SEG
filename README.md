@@ -1,105 +1,101 @@
-# ⚡ Hello, Energy & Embedded Systems Visionaries!
+# ⚡ Embedded Systems Engineer | Energy Market Disruptor | Grid Tech Visionary
 
-## 👨‍💻 Who Am I?
-I’m an embedded systems engineer on a mission to reshape the energy landscape. With a deep passion for firmware, energy systems, and grid innovation, I build technologies that connect consumer devices with the energy markets—enabling smarter usage, real-time response, and seamless grid balancing.  
-**Goal:** Empower every device to play its part in a resilient, decentralized energy ecosystem.
-
----
-
-## 🚀 Driving Energy Market Disruption
-I develop embedded IoT solutions that close the loop between household devices and energy providers, enabling participation in:
-
-- **FCR (Frequency Containment Reserve)**
-- **aFRR (Automatic Frequency Restoration Reserve)**
-- **Imbalance Management**
-- **Decentralized Energy Trading**
+## 👋 Who Am I?
+I'm an embedded systems engineer transforming the energy landscape—device by device.  
+Driven by a passion for firmware, energy systems, and market innovation, I build smart, fast, and connected solutions that bridge homes and grids.  
+**Mission:** Make every device a grid-responsive asset in a decentralized, resilient energy future.
 
 ---
 
-## 🔧 Projects in Motion
+## 🚀 Disrupting the Energy Game
 
-- **⚡ Ultra-Fast Grid Response Systems**  
-  Sub-10 ms embedded response for FCR using custom DSPs and precision frequency detection
+I engineer embedded IoT systems that:
 
-- **📉 Imbalance Management Platform**  
-  Predictive control and real-time coordination to reduce imbalance costs
-
-- **🏡 Smart Home Energy Framework**  
-  Secure, scalable IoT systems enabling real-time device coordination with energy markets
-
-- **📊 Energy Market Data Integration**  
-  Lightweight APIs connecting household systems with dynamic grid and price signals
-
-- **🌐 Peer-to-Peer Trading Tech**  
-  Blockchain-secured systems for transparent and decentralized local energy exchange
+- Respond to grid needs in real time  
+- Enable homes to join FCR, aFRR & imbalance markets  
+- Optimize energy flow through smart forecasting and control  
+- Power transparent peer-to-peer energy trading
 
 ---
 
-## 🧰 Tech Toolbox
+## 🔧 Projects in Action
 
-- **Firmware & Embedded:** C/C++, Rust, FreeRTOS, Zephyr  
-- **Hardware Platforms:** STM32, ESP32, RP2040, custom PCBs  
-- **Signal Processing:** ARM CMSIS-DSP, FPGA  
-- **Communication:** MQTT, Modbus, OPC UA, Custom IoT protocols  
-- **Backend & Data:** Python, FastAPI, InfluxDB, Grafana  
-- **AI/ML:** Edge ML models for forecasting and control  
-- **Blockchain:** Ethereum, Hyperledger for energy contracts
+- **⚡ Ultra-Fast Grid Response (sub-10ms)**  
+  Embedded hardware + DSPs for lightning-fast FCR control
 
----
+- **📉 Imbalance Minimization Engine**  
+  Predictive algorithms to cut costs and enhance grid stability
 
-## 🔬 Research & Exploration
+- **🏠 Smart Home → Smart Grid**  
+  Secure IoT architecture linking appliances to market signals
 
-- ⚡ Ultra-low-latency hardware for frequency detection  
-- 🧠 AI/ML for imbalance prediction & optimization  
-- 🌍 Edge-first microgrid control systems  
-- 🔗 Blockchain-based smart contracts for energy trading  
-- 📶 Open standards for grid-aware devices  
-- 🤖 Autonomous load scheduling & control
+- **📈 Grid Data Connectors**  
+  APIs delivering real-time prices, frequencies & signals to edge devices
+
+- **🔗 P2P Energy Exchange**  
+  Blockchain-backed micro-market infrastructure for local trading
 
 ---
 
-## 🌍 Energy IoT Vision
-Every household device can become a **grid asset**. From EV chargers to heat pumps, intelligence at the edge means:
+## 🛠️ Tech Toolbox
+
+- **Firmware:** C/C++, Rust, FreeRTOS, Zephyr  
+- **Hardware:** STM32, ESP32, RP2040, custom PCBs  
+- **Signal Processing:** ARM CMSIS-DSP, FPGAs  
+- **Protocols:** MQTT, Modbus, OPC UA, SunSpec  
+- **Cloud & Data:** Python, FastAPI, InfluxDB, Grafana  
+- **AI/ML:** Edge-based prediction & decision models  
+- **Blockchain:** Ethereum, Hyperledger for smart contracts
+
+---
+
+## 🔬 Research Focus
+
+- µs-scale frequency detection for fast reserves  
+- ML-driven forecasting of grid imbalance  
+- Edge-first orchestration of microgrids  
+- Blockchain for automated clearing & settlement  
+- Universal protocols for grid-aware devices  
+- Autonomous device scheduling algorithms
+
+---
+
+## 🌍 Vision: A Responsive Energy Grid
+
+I believe every device—EV charger, heat pump, battery—can contribute to:
 
 - Real-time flexibility  
-- Reduced consumer costs  
-- Enhanced renewable integration  
-- Energy sovereignty
+- Grid stability  
+- Renewable integration  
+- Consumer empowerment  
+- Lower energy bills
 
 ---
 
-## 🎯 Featured Solutions
+## 🎯 Solutions That Deliver
 
-- **FCR-Ready Embedded Hardware**  
-  Boards with ultra-fast frequency detection & actuation
-
-- **aFRR Aggregation Toolkit**  
-  Software for pooling and controlling small-scale resources
-
-- **Imbalance Optimizer**  
-  Real-time tools to minimize penalties
-
-- **Cross-Vendor Protocol Stack**  
-  Open-source communication layer
-
-- **Consumer Energy Dashboard**  
-  Market data, price signals & control, all in one place
-
-- **Smart Grid SDK**  
-  Developer-friendly tools for building grid-integrated apps
+- **FCR-Ready Embedded Controllers**  
+- **aFRR Aggregation Stack for DERs**  
+- **Imbalance Penalty Optimizer (IPO)**  
+- **Cross-Brand Communication Layer**  
+- **Market Signal Dashboard for Consumers**  
+- **Smart Grid SDK for Devs**
 
 ---
 
-## 🤝 Let’s Collaborate
+## 🤝 Let's Build the Future Together
 
-I'm always looking to connect with energy tech builders, innovators, and forward-thinkers. Let’s work together on:
+I’m open to collaboration with:
 
-- Grid balancing via distributed resources  
-- Bringing household devices into energy markets  
-- Minimizing imbalance costs  
-- Creating universal energy communication standards  
-- Building a decentralized energy future
+- Grid operators  
+- Device manufacturers  
+- Energy aggregators  
+- Software developers  
+- Smart grid startups
+
+**Let’s co-create the next-generation energy ecosystem.**  
+**→ From smart home to smart grid. From passive load to active asset.**
 
 ---
 
-**Powering a decentralized, intelligent energy future – one device at a time.**
+**⚡ Powering a decentralized, intelligent energy future – one embedded system at a time.**
