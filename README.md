@@ -38,6 +38,28 @@ I build systems that:
 
 ---
 
+## 📚 Featured Project: Multilingual Spanish Learning Platform
+
+**Role:** Full-Stack Developer  
+**Live:** [yohanatuprofe.eu](https://yohanatuprofe.eu)  
+**Stack:** PHP • MySQL • JavaScript • TTS • Structured Data • SEO
+
+A lightweight, high-performance language platform built entirely from scratch — no CMS, no frameworks, just raw code and logic. Created to help Dutch- and English-speaking users learn Spanish interactively, with dynamic content sourced from a custom database and integrated audio.
+
+### 💡 Key Features
+
+- 🔄 Dynamic multilingual lesson engine (NL/EN to ES)  
+- 🧠 Structured data (`schema.org`) for Google Rich Results  
+- 🔊 Built-in **Text-to-Speech** with regional voice selection  
+- 🔐 Secure user auth with password hashing & salting  
+- ⚡ **Perfect 100/100 in all Lighthouse categories**  
+- 📦 Delivered in <16 hours using only VS Code and FTP  
+- 🔗 SEO-friendly URLs, live sitemap, canonical tags, robots.txt
+
+> A pure, handcrafted LMS platform built without shortcuts — blazing fast, fully optimized, and ready to scale.
+
+---
+
 ## 🛠️ Tech Toolbox
 
 - **Protocols:** Modbus TCP/RTU (expert), MQTT, OPC UA, SunSpec  
