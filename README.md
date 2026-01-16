@@ -4,6 +4,9 @@
 [![SmartEGrid](https://img.shields.io/badge/SmartEGrid-Founder-orange?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMyAzbC0yIDgtNCAyIDMgOCAyLTggNHoiLz48L3N2Zz4=)](https://smartegrid.be)
 [![Location](https://img.shields.io/badge/Belgium-Zonhoven-yellow?logo=googlemaps&logoColor=white)](https://goo.gl/maps/Belgium)
 [![Node-RED](https://img.shields.io/badge/Node--RED-Core%20Contributor-8F0000?logo=nodered&logoColor=white)](https://github.com/node-red/node-red/pulls?q=author%3ADennis-SEG)
+[![Dutch](https://img.shields.io/badge/🇳🇱-Dutch-orange)](https://en.wikipedia.org/wiki/Dutch_language)
+[![English](https://img.shields.io/badge/🇬🇧-English-blue)](https://en.wikipedia.org/wiki/English_language)
+[![Spanish](https://img.shields.io/badge/🇪🇸-Spanish-red)](https://en.wikipedia.org/wiki/Spanish_language)
 
 ## 👋 Who Am I?
 I'm an embedded systems engineer transforming the energy landscape—device by device.  
