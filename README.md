@@ -7,6 +7,19 @@ With deep expertise in **Modbus communication (TCP/RTU)** and **Node.js**, I cre
 
 ---
 
+## 🔴 Node-RED Core Contributor
+
+Active contributor to [Node-RED](https://github.com/node-red/node-red), the leading flow-based programming tool for IoT:
+
+- **Core Stability Fixes** — Hardened TCP, UDP, MQTT, WebSocket & Exec nodes against uncaught exceptions
+- **Production Scale** — Running **2500+ devices** on FlowFuse Cloud
+- **Custom Node Library** — 26 enterprise nodes for energy management (solar inverters, batteries, EV chargers)
+- **Supported Brands** — SMA, Huawei, SolarEdge, Sungrow, Fronius, GoodWe, Growatt, Sonnen, Alfen, ETREL
+
+[![Node-RED PRs](https://img.shields.io/github/issues-pr/node-red/node-red?label=Node-RED%20PRs)](https://github.com/node-red/node-red/pulls?q=author%3ADennis-SEG)
+
+---
+
 ## 🚀 Disrupting the Energy Game
 
 I build systems that:
