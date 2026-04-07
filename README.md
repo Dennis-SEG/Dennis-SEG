@@ -56,9 +56,21 @@ I don't just write firmware or just write backend — I build the **complete pip
 
 ---
 
-## Node-RED core contributor
+## Open-source contributions (merged)
 
-Active contributor to [Node-RED](https://github.com/node-red/node-red) — hardened TCP, UDP, MQTT, WebSocket and Exec nodes against uncaught exceptions in production. Running the largest known FlowFuse Cloud deployment for energy management.
+**[node-red/node-red](https://github.com/node-red/node-red)** — core runtime fixes, all merged into main:
+
+- [`#5438`](https://github.com/node-red/node-red/pull/5438) prevent uncaught exceptions in core node event handlers
+- [`#5392`](https://github.com/node-red/node-red/pull/5392) prevent uncaught exceptions in http-request async hooks
+- [`#5462`](https://github.com/node-red/node-red/pull/5462) fix race condition in localfilesystem context store during shutdown
+- [`#5461`](https://github.com/node-red/node-red/pull/5461) fix double resolve in node close callback
+- [`#5457`](https://github.com/node-red/node-red/pull/5457) fix incorrect array modification in delay node
+
+**[yaacov/node-modbus-serial](https://github.com/yaacov/node-modbus-serial)** — the most used Modbus library for Node.js:
+
+- [`#610`](https://github.com/yaacov/node-modbus-serial/pull/610) fix missing worker files in package
+
+All found through running 3500+ devices in production — these are bugs you only find at scale.
 
 ---
 
