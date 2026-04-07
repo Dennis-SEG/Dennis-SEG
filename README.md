@@ -21,13 +21,13 @@ Part of **[Dots Energy](https://dotsenergy.nl)** and **[Smart-E-Grid](https://sm
 
 [![Node-RED](https://img.shields.io/badge/Node--RED-Core%20Contributor-8F0000?logo=nodered&logoColor=white)](https://github.com/node-red/node-red/pulls?q=author%3ADennis-SEG)
 [![FlowFuse](https://img.shields.io/badge/FlowFuse-Cloud-red?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyTDIgN2wxMCA1IDEwLTV6Ii8+PC9zdmc+)](https://flowfuse.com)
-[![Devices](https://img.shields.io/badge/Production-2500%2B%20Devices-green?logo=internetofthings&logoColor=white)](https://smartegrid.be)
+[![Devices](https://img.shields.io/badge/Production-3500%2B%20Devices-green?logo=internetofthings&logoColor=white)](https://smartegrid.be)
 [![Custom Nodes](https://img.shields.io/badge/Custom%20Nodes-26-blue?logo=npm&logoColor=white)](https://npm.smartegrid.app)
 
 Active contributor to [Node-RED](https://github.com/node-red/node-red), the leading flow-based programming tool for IoT:
 
 - **Core Stability Fixes** — Hardened TCP, UDP, MQTT, WebSocket & Exec nodes against uncaught exceptions
-- **Production Scale** — Running **2500+ devices** on FlowFuse Cloud
+- **Production Scale** — Running **3500+ devices** on FlowFuse Cloud
 - **Custom Node Library** — 26 enterprise nodes for energy management (solar inverters, batteries, EV chargers)
 - **Supported Brands** — SMA, Huawei, SolarEdge, Sungrow, Fronius, GoodWe, Growatt, Sonnen, Alfen, ETREL
 
