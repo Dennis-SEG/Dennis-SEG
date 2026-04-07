@@ -1,167 +1,87 @@
-# ⚡ Embedded Systems Engineer | Modbus & Node.js Specialist | Grid Tech Visionary
+# Dennis Bosmans
+
+**Full-stack embedded engineer** — firmware to cloud, C++ to JavaScript, hardware to dashboard.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dennis%20Bosmans-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dennis-bosmans-65ab24b/)
-[![SmartEGrid](https://img.shields.io/badge/SmartEGrid-IoT%20Engineer-orange?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMyAzbC0yIDgtNCAyIDMgOCAyLTggNHoiLz48L3N2Zz4=)](https://smartegrid.be)
-[![Dots Energy](https://img.shields.io/badge/Dots%20Energy-Smart%20Meter%20Hardware-9652D5?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMyIgZmlsbD0id2hpdGUiLz48Y2lyY2xlIGN4PSI2IiBjeT0iMTIiIHI9IjIiIGZpbGw9IndoaXRlIi8+PGNpcmNsZSBjeD0iMTgiIGN5PSIxMiIgcj0iMiIgZmlsbD0id2hpdGUiLz48L3N2Zz4=)](https://dotsenergy.be)
-[![Location](https://img.shields.io/badge/Belgium-Zonhoven-yellow?logo=googlemaps&logoColor=white)](https://goo.gl/maps/Belgium)
+[![SmartEGrid](https://img.shields.io/badge/Smart--E--Grid-orange)](https://smartegrid.be)
+[![Dots Energy](https://img.shields.io/badge/Dots%20Energy-9652D5)](https://dotsenergy.be)
 [![Node-RED](https://img.shields.io/badge/Node--RED-Core%20Contributor-8F0000?logo=nodered&logoColor=white)](https://github.com/node-red/node-red/pulls?q=author%3ADennis-SEG)
-[![Dutch](https://img.shields.io/badge/🇳🇱-Dutch-orange)](https://en.wikipedia.org/wiki/Dutch_language)
-[![English](https://img.shields.io/badge/🇬🇧-English-blue)](https://en.wikipedia.org/wiki/English_language)
-[![Spanish](https://img.shields.io/badge/🇪🇸-Spanish-red)](https://en.wikipedia.org/wiki/Spanish_language)
-
-## 👋 Who Am I?
-I'm an embedded systems engineer transforming the energy landscape—device by device.  
-With deep expertise in **Modbus communication (TCP/RTU)** and **Node.js**, I create IoT solutions that connect **B2C and C&I customers** to the grid—securely, intelligently, and in real time.  
-Part of **[Dots Energy](https://dotsenergy.nl)** and **[Smart-E-Grid](https://smartegrid.be)** — building smart meter hardware and energy monitoring solutions.  
-**Mission:** Make every consumer, prosumer, and business part of a decentralized, resilient energy ecosystem.
+[![Devices](https://img.shields.io/badge/3500%2B%20devices%20in%20production-green)](https://smartegrid.be)
 
 ---
 
-## 🔴 Node-RED Core Contributor
+## What I build
 
-[![Node-RED](https://img.shields.io/badge/Node--RED-Core%20Contributor-8F0000?logo=nodered&logoColor=white)](https://github.com/node-red/node-red/pulls?q=author%3ADennis-SEG)
-[![FlowFuse](https://img.shields.io/badge/FlowFuse-Cloud-red?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyTDIgN2wxMCA1IDEwLTV6Ii8+PC9zdmc+)](https://flowfuse.com)
-[![Devices](https://img.shields.io/badge/Production-3500%2B%20Devices-green?logo=internetofthings&logoColor=white)](https://smartegrid.be)
-[![Custom Nodes](https://img.shields.io/badge/Custom%20Nodes-26-blue?logo=npm&logoColor=white)](https://npm.smartegrid.app)
+I design and ship the entire stack for energy IoT — from bare-metal ESP32 firmware in C++ to cloud orchestration in Node.js, running on **3500+ devices in production** across Belgium and the Netherlands.
 
-Active contributor to [Node-RED](https://github.com/node-red/node-red), the leading flow-based programming tool for IoT:
+**At [Dots Energy](https://dotsenergy.be)** — smart meter hardware (ESP32-S3) that reads Dutch/Belgian DSMR P1 ports, with NIS2-compliant encrypted transport, remote OTA firmware updates, and built-in Modbus gateways.
 
-- **Core Stability Fixes** — Hardened TCP, UDP, MQTT, WebSocket & Exec nodes against uncaught exceptions
-- **Production Scale** — Running **3500+ devices** on FlowFuse Cloud
-- **Custom Node Library** — 26 enterprise nodes for energy management (solar inverters, batteries, EV chargers)
-- **Supported Brands** — SMA, Huawei, SolarEdge, Sungrow, Fronius, GoodWe, Growatt, Sonnen, Alfen, ETREL
+**At [Smart-E-Grid](https://smartegrid.be)** — the backend platform that controls solar inverters, batteries, heat pumps and EV chargers in real-time for energy flexibility markets (FCR, aFRR, imbalance).
 
 ---
 
-## 🚀 Disrupting the Energy Game
+## The stack — fully integrated, all mine
 
-I build systems that:
+```
+┌─────────────────────────────────────────────────────────┐
+│  HARDWARE          ESP32-S3 / ESP32-C3 custom PCBs      │
+│  FIRMWARE          C++ / FreeRTOS / nanopb / MQTT(S)     │
+│  PROTOCOLS         Modbus TCP/RTU, MQTT, SunSpec, DSMR   │
+│  OTA               Chunk-based firmware updates + SHA256  │
+├─────────────────────────────────────────────────────────┤
+│  BACKEND           Node.js / Node-RED / Java             │
+│  DEVICE MGMT       3500+ devices, FlowFuse Cloud         │
+│  CONTROL           26 custom nodes for energy assets      │
+│  REAL-TIME         <10ms grid response, VPP orchestration│
+├─────────────────────────────────────────────────────────┤
+│  BRANDS            SMA, Huawei, SolarEdge, Sungrow,      │
+│                    Fronius, GoodWe, Growatt, Sonnen,      │
+│                    Alfen, ETREL                           │
+└─────────────────────────────────────────────────────────┘
+```
 
-- Speak fluent **Modbus TCP/RTU**, seamlessly implemented in **Node.js**
-- Enable both **households and businesses** to join energy markets  
-- Integrate **partial customers** into **Virtual Power Plants (VPPs)**
-- Deliver real-time device response for **FCR, aFRR & imbalance markets**
-- Power peer-to-peer **local energy trading**
-
----
-
-## 🟣 Dots Energy — Smart Meter Hardware
-
-Building the next generation of P1 smart meter dongles:
-
-- **ESP32-S3 Hardware** — P1 Pro, Ultra Mini, Ethernet variants for Dutch/Belgian DSMR meters
-- **NIS2 Compliant** — Secure protocols, encrypted transport, OTA updates with SHA256 verification
-- **Modbus Gateway** — Built-in Modbus TCP/RTU server for solar inverters and batteries
-- **Dots Energy Dashboard** — Real-time energy monitoring web interface
-
----
-
-## 🔧 Projects in Action
-
-- **⚡ Ultra-Fast Grid Response Systems (<10ms)**  
-  Hardware and Modbus-based actuation for frequency services
-
-- **📉 Imbalance Reduction Engine**  
-  Predictive Node.js control platform for DERs and partial consumers
-
-- **🏡 B2C Energy Participation Toolkit**  
-  Enable home batteries, heat pumps & EVs to respond to price & grid signals
-
-- **🏭 C&I Aggregation Framework**  
-  Industrial systems integrated via Modbus and real-time VPP control
-
-- **🌐 Modbus-to-VPP Integration Layer**  
-  Seamless onboarding of legacy and smart assets into energy pools
+I don't just write firmware or just write backend — I build the **complete pipeline** from the copper trace on the PCB to the API call that dispatches a battery.
 
 ---
 
-## 📚 Featured Project: Multilingual Spanish Learning Platform
+## Numbers
 
-**Role:** Full-Stack Developer  
-**Live:** [yohanatuprofe.eu](https://yohanatuprofe.eu)  
-**Stack:** PHP • MySQL • JavaScript • TTS • Structured Data • SEO
-
-A lightweight, high-performance language platform built entirely from scratch — no CMS, no frameworks, just raw code and logic. Created to help Dutch- and English-speaking users learn Spanish interactively, with dynamic content sourced from a custom database and integrated audio.
-
-### 💡 Key Features
-
-- 🔄 Dynamic multilingual lesson engine (NL/EN to ES)  
-- 🧠 Structured data (`schema.org`) for Google Rich Results  
-- 🔊 Built-in **Text-to-Speech** with regional voice selection  
-- 🔐 Secure user auth with password hashing & salting  
-- ⚡ **Perfect 100/100 in all Lighthouse categories**  
-- 📦 Delivered in <16 hours using only VS Code and FTP  
-- 🔗 SEO-friendly URLs, live sitemap, canonical tags, robots.txt
-
-> A pure, handcrafted LMS platform built without shortcuts — blazing fast, fully optimized, and ready to scale.
+| | |
+|---|---|
+| **3500+** | devices in production |
+| **26** | custom Node-RED nodes published |
+| **<10ms** | grid frequency response time |
+| **65%** | bandwidth reduction via binary protocols |
+| **10s** | telemetry interval across entire fleet |
 
 ---
 
-## 🛠️ Tech Toolbox
+## Node-RED core contributor
 
-[![Node.js](https://img.shields.io/badge/Node.js-Expert-339933?logo=nodedotjs&logoColor=white)](https://nodejs.org)
-[![Modbus](https://img.shields.io/badge/Modbus-TCP%2FRTU-blue?logo=probot&logoColor=white)](https://modbus.org)
-[![MQTT](https://img.shields.io/badge/MQTT-Protocol-purple?logo=mqtt&logoColor=white)](https://mqtt.org)
-[![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![C](https://img.shields.io/badge/C%2FC++-Embedded-00599C?logo=c&logoColor=white)](https://en.cppreference.com)
-[![Rust](https://img.shields.io/badge/Rust-Systems-000000?logo=rust&logoColor=white)](https://www.rust-lang.org)
-
-- **Protocols:** Modbus TCP/RTU (expert), MQTT, OPC UA, SunSpec
-- **Languages:** Node.js, C/C++, Rust
-- **RTOS & Firmware:** FreeRTOS, Zephyr
-- **Hardware:** STM32, ESP32, RP2040, PLCs
-- **Signal Processing:** ARM CMSIS-DSP, FPGAs
-- **Cloud & Data:** FastAPI, InfluxDB, Grafana
-- **Blockchain:** Ethereum, Hyperledger
-- **Tools:** Node-RED, custom Modbus libraries in Node.js
+Active contributor to [Node-RED](https://github.com/node-red/node-red) — hardened TCP, UDP, MQTT, WebSocket and Exec nodes against uncaught exceptions in production. Running the largest known FlowFuse Cloud deployment for energy management.
 
 ---
 
-## 🔬 Research Focus
+## Tech
 
-- µs-scale frequency detection and reaction  
-- Grid-interactive device scheduling for B2C  
-- Modbus over TCP/RTU control via Node.js  
-- Blockchain-enabled energy contracts  
-- Scalable virtual power plant orchestration  
-- Cross-device automation frameworks
-
----
-
-## 🌍 Vision: Every Device a Grid Participant
-
-From home batteries to industrial chillers, every asset can:
-
-- Deliver flexibility  
-- Stabilize the grid  
-- Reduce energy costs  
-- Join VPPs  
-- Enable energy independence
+| Layer | Stack |
+|-------|-------|
+| **Firmware** | C/C++, FreeRTOS, nanopb, Arduino, ESP-IDF |
+| **Hardware** | ESP32-S3, ESP32-C3, STM32, custom PCBs |
+| **Protocols** | Modbus TCP/RTU, MQTT/TLS, SunSpec, DSMR P1, OPC UA |
+| **Backend** | Node.js, Java, Node-RED, FlowFuse |
+| **Data** | InfluxDB, Grafana, FastAPI |
+| **Security** | NIS2 compliant, TLS 1.3, SHA256 verification, encrypted OTA |
 
 ---
 
-## 🎯 Solutions That Deliver
+## What I'm working on
 
-- **FCR/aFRR-Capable Embedded Hardware**  
-- **Node.js VPP Gateway for Modbus Devices**  
-- **Imbalance Cost Minimizer**  
-- **B2C Energy Market Integration Suite**  
-- **Cross-Brand Modbus Middleware**  
-- **Smart Grid SDK with Consumer APIs**
+- Scaling the fleet from 3500 to 10000+ devices
+- Sub-millisecond frequency detection for FCR markets
+- Cross-brand Modbus middleware for residential and C&I assets
+- Remote device management and OTA at scale
 
 ---
 
-## 🤝 Let’s Collaborate
-
-Open to working with:
-
-- DSOs, TSOs, and aggregators  
-- B2C and industrial tech providers  
-- Smart device manufacturers  
-- Energy innovators and developers
-
-**Let’s co-create the energy grid of tomorrow—flexible, fair, and decentralized.**
-
----
-
-**⚡ Powering a decentralized, intelligent energy future – one Modbus-connected device at a time.**
+**Building the infrastructure that turns every home and business into a grid participant.**
