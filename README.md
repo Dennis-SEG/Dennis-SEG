@@ -12,7 +12,7 @@
 ## 👋 Who Am I?
 I'm an embedded systems engineer transforming the energy landscape—device by device.  
 With deep expertise in **Modbus communication (TCP/RTU)** and **Node.js**, I create IoT solutions that connect **B2C and C&I customers** to the grid—securely, intelligently, and in real time.  
-Part of **[Dots Energy](https://dotsenergy.nl)** — building smart meter hardware (ESP32) with protobuf MQTT transport and OTA firmware updates for ThingsBoard.  
+Part of **[Dots Energy](https://dotsenergy.nl)** — building smart meter hardware and energy monitoring solutions.  
 **Mission:** Make every consumer, prosumer, and business part of a decentralized, resilient energy ecosystem.
 
 ---
@@ -50,8 +50,7 @@ I build systems that:
 Building the next generation of P1 smart meter dongles:
 
 - **ESP32-S3 Hardware** — P1 Pro, Ultra Mini, Ethernet variants for Dutch/Belgian DSMR meters
-- **Protobuf MQTT** — 65% bandwidth reduction vs JSON (nanopb → ThingsBoard)
-- **OTA Updates** — Chunk-based firmware updates via ThingsBoard MQTT with SHA256 verification
+- **NIS2 Compliant** — Secure protocols, encrypted transport, OTA updates with SHA256 verification
 - **Modbus Gateway** — Built-in Modbus TCP/RTU server for solar inverters and batteries
 - **Dots Energy Dashboard** — Real-time energy monitoring web interface
 
