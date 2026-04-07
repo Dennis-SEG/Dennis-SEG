@@ -2,6 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dennis%20Bosmans-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dennis-bosmans/)
 [![SmartEGrid](https://img.shields.io/badge/SmartEGrid-IoT%20Engineer-orange?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMyAzbC0yIDgtNCAyIDMgOCAyLTggNHoiLz48L3N2Zz4=)](https://smartegrid.be)
+[![Dots Energy](https://img.shields.io/badge/Dots%20Energy-Smart%20Meter%20Hardware-9652D5?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMyIgZmlsbD0id2hpdGUiLz48Y2lyY2xlIGN4PSI2IiBjeT0iMTIiIHI9IjIiIGZpbGw9IndoaXRlIi8+PGNpcmNsZSBjeD0iMTgiIGN5PSIxMiIgcj0iMiIgZmlsbD0id2hpdGUiLz48L3N2Zz4=)](https://dotsenergy.nl)
 [![Location](https://img.shields.io/badge/Belgium-Zonhoven-yellow?logo=googlemaps&logoColor=white)](https://goo.gl/maps/Belgium)
 [![Node-RED](https://img.shields.io/badge/Node--RED-Core%20Contributor-8F0000?logo=nodered&logoColor=white)](https://github.com/node-red/node-red/pulls?q=author%3ADennis-SEG)
 [![Dutch](https://img.shields.io/badge/🇳🇱-Dutch-orange)](https://en.wikipedia.org/wiki/Dutch_language)
@@ -11,6 +12,7 @@
 ## 👋 Who Am I?
 I'm an embedded systems engineer transforming the energy landscape—device by device.  
 With deep expertise in **Modbus communication (TCP/RTU)** and **Node.js**, I create IoT solutions that connect **B2C and C&I customers** to the grid—securely, intelligently, and in real time.  
+Part of **[Dots Energy](https://dotsenergy.nl)** — building smart meter hardware (ESP32) with protobuf MQTT transport and OTA firmware updates for ThingsBoard.  
 **Mission:** Make every consumer, prosumer, and business part of a decentralized, resilient energy ecosystem.
 
 ---
@@ -40,6 +42,18 @@ I build systems that:
 - Integrate **partial customers** into **Virtual Power Plants (VPPs)**
 - Deliver real-time device response for **FCR, aFRR & imbalance markets**
 - Power peer-to-peer **local energy trading**
+
+---
+
+## 🟣 Dots Energy — Smart Meter Hardware
+
+Building the next generation of P1 smart meter dongles:
+
+- **ESP32-S3 Hardware** — P1 Pro, Ultra Mini, Ethernet variants for Dutch/Belgian DSMR meters
+- **Protobuf MQTT** — 65% bandwidth reduction vs JSON (nanopb → ThingsBoard)
+- **OTA Updates** — Chunk-based firmware updates via ThingsBoard MQTT with SHA256 verification
+- **Modbus Gateway** — Built-in Modbus TCP/RTU server for solar inverters and batteries
+- **Dots Energy Dashboard** — Real-time energy monitoring web interface
 
 ---
 
