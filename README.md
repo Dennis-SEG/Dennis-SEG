@@ -12,7 +12,7 @@
 ## 👋 Who Am I?
 I'm an embedded systems engineer transforming the energy landscape—device by device.  
 With deep expertise in **Modbus communication (TCP/RTU)** and **Node.js**, I create IoT solutions that connect **B2C and C&I customers** to the grid—securely, intelligently, and in real time.  
-Part of **[Dots Energy](https://dotsenergy.nl)** — building smart meter hardware and energy monitoring solutions.  
+Part of **[Dots Energy](https://dotsenergy.nl)** and **[Smart-E-Grid](https://smartegrid.be)** — building smart meter hardware and energy monitoring solutions.  
 **Mission:** Make every consumer, prosumer, and business part of a decentralized, resilient energy ecosystem.
 
 ---
