@@ -1,6 +1,6 @@
 # ⚡ Embedded Systems Engineer | Modbus & Node.js Specialist | Grid Tech Visionary
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dennis%20Bosmans-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dennis-bosmans/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dennis%20Bosmans-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dennis-bosmans-65ab24b/)
 [![SmartEGrid](https://img.shields.io/badge/SmartEGrid-IoT%20Engineer-orange?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMyAzbC0yIDgtNCAyIDMgOCAyLTggNHoiLz48L3N2Zz4=)](https://smartegrid.be)
 [![Dots Energy](https://img.shields.io/badge/Dots%20Energy-Smart%20Meter%20Hardware-9652D5?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMyIgZmlsbD0id2hpdGUiLz48Y2lyY2xlIGN4PSI2IiBjeT0iMTIiIHI9IjIiIGZpbGw9IndoaXRlIi8+PGNpcmNsZSBjeD0iMTgiIGN5PSIxMiIgcj0iMiIgZmlsbD0id2hpdGUiLz48L3N2Zz4=)](https://dotsenergy.be)
 [![Location](https://img.shields.io/badge/Belgium-Zonhoven-yellow?logo=googlemaps&logoColor=white)](https://goo.gl/maps/Belgium)
